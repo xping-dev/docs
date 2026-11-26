@@ -1,2 +1,10 @@
 - name: Overview
   href: index.md
+- name: Get started
+  href: getting-started/
+- name: Configure
+  href: configuration/
+- name: Performance
+  href: performance/
+- name: Troubleshooting
+  href: troubleshooting/
